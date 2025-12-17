@@ -1,0 +1,13 @@
+{
+    "users": [],
+    "settings": {
+        "host": "smtp.example.com",
+        "port": 587,
+        "user": "",
+        "pass": "",
+        "secure": false
+    },
+    "projects": [],
+    "authenticators": [],
+    "photos": []
+}
