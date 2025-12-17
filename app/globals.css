@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Subtle Neumorphism */
+  .neumorph {
+    box-shadow:
+      8px 8px 16px #d1d9e6,
+      -8px -8px 16px #ffffff;
+  }
+
+  .dark .neumorph {
+    box-shadow:
+      8px 8px 16px #1c1917,
+      /* stone-900ish shadow */
+      -8px -8px 16px #292524;
+    /* stone-800ish light */
+  }
+
+  /* Ultra Subtle Neumorphism (Proprio poco) */
+  .neumorph-subtle {
+    box-shadow:
+      6px 6px 12px rgba(0, 0, 0, 0.05),
+      -6px -6px 12px rgba(255, 255, 255, 0.8);
+  }
+
+  .dark .neumorph-subtle {
+    box-shadow:
+      6px 6px 12px rgba(0, 0, 0, 0.3),
+      -6px -6px 12px rgba(255, 255, 255, 0.05);
+  }
+}
+
+@layer base {
+  body {
+    @apply bg-stone-50 text-stone-900 dark:bg-stone-950 dark:text-stone-50;
+    font-family: var(--font-montserrat), sans-serif;
+  }
+}
