@@ -2,6 +2,18 @@
 
 A modern, high-performance portfolio template built with Next.js 14, Tailwind CSS, and WebAuthn for biometric authentication.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ5cDl2NHF5Ynl6NHF5Ynl6NHF5Ynl6NHF5Ynl6NHF5Ynl6JmVwPXYxX2dpZc9zZWFyY2g&rid=giphy.gif&ct=g" width="150" alt="React Animation" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/WebAuthn-Security-green?style=for-the-badge&logo=auth0" alt="WebAuthn" />
+</p>
+
 ## Features
 
 -   **Framework**: Next.js 15 (App Router)
