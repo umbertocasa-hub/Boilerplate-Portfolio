@@ -3,7 +3,7 @@
 A modern, high-performance portfolio template built with Next.js 14, Tailwind CSS, and WebAuthn for biometric authentication.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ5cDl2NHF5Ynl6NHF5Ynl6NHF5Ynl6NHF5Ynl6NHF5Ynl6JmVwPXYxX2dpZc9zZWFyY2g&rid=giphy.gif&ct=g" width="150" alt="React Animation" />
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ5cDl2NHF5Ynl6NHF5Ynl6NHF5Ynl6NHF5Ynl6NHF5Ynl6JmVwPXYxX2dpZc9zZWFyY2g&rid=giphy.gif&ct=g](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZ5b245Zjdoc3pldGRoajVwNzh5dmVsZHQzYmozZDh2bWY5OTdhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gDPxwdP6SKFnsWDJ2u/giphy.gif)" width="150" alt="React Animation" />
 </div>
 
 <p align="center">
